@@ -2,17 +2,17 @@
 
 
 ## Requirements
-'''
+```
 numpy
 scipy
 pygsp
-'''
+```
 
 ## To use GONMF-ADMM:
 run 
-''' 
+``` 
 test.py
-'''
+```
 
 ## Citing GONMF-ADMM
 Please kindly cite our paper when you use this code! 
