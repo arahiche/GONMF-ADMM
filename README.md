@@ -11,3 +11,15 @@ This reposity will be updated very soon.
 
 # Citation
 Please kindly cite our paper when you use this code! 
+
+## Citing GONMF-ADMM
+```
+@inproceedings{rahiche2020forgery,
+  title={Forgery detection in hyperspectral document images using graph orthogonal nonnegative matrix factorization},
+  author={Rahiche, Abderrahmane and Cheriet, Mohamed},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops},
+  pages={662--663},
+  year={2020}
+}
+```
+
